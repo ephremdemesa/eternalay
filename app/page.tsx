@@ -137,7 +137,7 @@ export default function Home() {
             </div>
 
             <p className="text-slate-600 text-xs mt-10 font-mono">
-              © 2025 EternalAY. All rights reserved.
+              © 2026 EternalAY. All rights reserved.
             </p>
           </div>
         </section>
